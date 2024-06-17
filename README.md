@@ -9,5 +9,6 @@ You can find Tasks and materials of following students just by clicking the name
 - [Asmar Hummatova](https://github.com/Edalet-eng/Tasks/tree/main/Asmar%20tasks)
 - [Fuad Abdullayev]()
 - [Khayala Babayeva](https://github.com/Edalet-eng/Tasks/tree/main/Xayala%20task)
+- [Sadig Gasimov]()
 
 _For further updates, watch and stay in touch with this repository!_
